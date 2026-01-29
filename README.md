@@ -1,0 +1,1 @@
+This Github repository contains the Python code used in the book (draft) "Resonance Pragmatics: A Framework for the Affective and Social Impact of Human and AI Communicative Acts (Elements in Pragmatics series published by Cambridge University Press, 2026)."
